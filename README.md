@@ -1,4 +1,4 @@
-# Backend para Tienda de Ropa Online
+# Backend para Tienda de Ropa Online by RubyShop
 
 Este es el backend para la tienda de ropa online desarrollada con Node.js, Express y MongoDB(por el momento esa base de datos por que estara en venta esta aplicacion).
 
@@ -82,3 +82,7 @@ Para integrar este backend con el frontend React existente:
 1. Asegúrate de que el backend esté corriendo en el puerto 5000
 2. En el frontend, actualiza las llamadas API para usar la URL base `http://localhost:5000/api`
 3. Implementa la autenticación usando JWT en el frontend 
+
+
+
+Produce by Ruben
