@@ -1,6 +1,6 @@
 # Imágenes de productos
 
-Coloca aquí las imágenes de productos:
+Coloca aca las imágenes de productos:
 - traje-sastre.jpg
 - traje-casamiento.jpg
 - traje-slim.jpg
