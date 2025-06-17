@@ -1,6 +1,6 @@
 # Backend para Tienda de Ropa Online
 
-Este es el backend para la tienda de ropa online desarrollada con Node.js, Express y MongoDB.
+Este es el backend para la tienda de ropa online desarrollada con Node.js, Express y MongoDB(por el momento esa base de datos por que estara en venta esta aplicacion).
 
 ## Estructura del Proyecto
 
